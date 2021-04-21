@@ -1,1 +1,1 @@
-# CI Sample Starter
+### Touhou game written in Java
